@@ -1,0 +1,7 @@
+{
+  "cdktf": "0.18.2",
+  "providers": {
+    "aws": "~> 5.0",
+    "babbel/acm/aws": "1.1.0"
+  }
+}
